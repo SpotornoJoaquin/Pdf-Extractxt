@@ -5,6 +5,7 @@ Extractor de texto a partir de pdf impulsado por IA
 - UV
 - Modelo de IA (Kimi Nvidia)
 - OpenCode
+- mongoDB
 
 ## Metodologías: 
 
